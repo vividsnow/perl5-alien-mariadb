@@ -1,0 +1,8 @@
+alienfile
+Changes
+lib/Alien/MariaDB.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README
+t/01-basic.t
